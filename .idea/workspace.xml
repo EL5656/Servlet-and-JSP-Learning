@@ -9,9 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e38b9db-2917-40d7-976c-98779f549878" name="Changes" comment="servlet extends HttpServlet">
+    <list default="true" id="1e38b9db-2917-40d7-976c-98779f549878" name="Changes" comment="doPost method">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/practice/SqServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/practice/AddServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/practice/AddServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +172,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727705635046</updated>
-      <workItem from="1727705636202" duration="4240000" />
+      <workItem from="1727705636202" duration="9048000" />
     </task>
     <task id="LOCAL-00001" summary="servlet extends HttpServlet">
       <created>1727709338563</created>
@@ -178,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1727709338563</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="doPost method">
+      <created>1727710064174</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727710064174</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +196,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="servlet extends HttpServlet" />
-    <option name="LAST_COMMIT_MESSAGE" value="servlet extends HttpServlet" />
+    <MESSAGE value="doPost method" />
+    <option name="LAST_COMMIT_MESSAGE" value="doPost method" />
   </component>
 </project>
