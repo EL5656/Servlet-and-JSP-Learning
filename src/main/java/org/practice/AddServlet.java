@@ -10,7 +10,7 @@ import java.io.PrintWriter;
 
 public class AddServlet extends HttpServlet {
     //service method
-    public void service(HttpServletRequest request, HttpServletResponse response) throws IOException {
+    public void doPost(HttpServletRequest request, HttpServletResponse response) throws IOException {
         int i = Integer.parseInt(request.getParameter("num1"));//name in index.html
         int j = Integer.parseInt(request.getParameter("num2"));
         int k = i+j;
